@@ -40,8 +40,7 @@ After running the script, the results will be saved as images in the project dir
 
 ### Example Output
 
-![Edge for Table]("Table Edge Detection/Edge_for_table.png")
-![Table Edge]("Table Edge Detection/Table_edge.png")
+![Table Edge](https://github.com/lalitkarthik/Save-Luna/blob/main/Table%20Edge%20Detection/Table_edge.png)
 
 
 
@@ -54,8 +53,6 @@ This project demonstrates the construction of a depth map from stereo image pair
 ## Table of Contents
 
 - [Code Overview](#code-overview)
-- [Results](#results)
-
 
 ## Code Overview
 
@@ -89,9 +86,6 @@ The main script performs the following steps:
 
 After running the script, the result will be saved as `Depth_Map.png`.
 
-### Example Output
-
-![Depth Map]("Depth Map construction/Depth_Map.png")
 
 
 
