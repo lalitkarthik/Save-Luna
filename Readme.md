@@ -40,8 +40,8 @@ After running the script, the results will be saved as images in the project dir
 
 ### Example Output
 
-![Edge for Table](Table Edge Detection/Edge_for_table.png)
-![Table Edge](Table Edge Detection/Table_edge.png)
+![Edge for Table]("Table Edge Detection/Edge_for_table.png")
+![Table Edge]("Table Edge Detection/Table_edge.png")
 
 
 
@@ -91,7 +91,7 @@ After running the script, the result will be saved as `Depth_Map.png`.
 
 ### Example Output
 
-![Depth Map](Depth Map construction/Depth_Map.png)
+![Depth Map]("Depth Map construction/Depth_Map.png")
 
 
 
